@@ -1,0 +1,4 @@
+Cloud Computing is a service provider model for networking, databases, softwares, etc.
+It is pay as you go model.
+  It is cost effective.
+We can use cloud services anytime anywhere using Internet.
